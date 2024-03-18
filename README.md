@@ -16,3 +16,4 @@ So, that's me! Feel free to explore my repos and let's code the future together!
 akasaam/akasaam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/aka_sam"><img src="https://api.daily.dev/devcards/v2/DqVVDpFk2eJQct6nr4TNu.png?r=3l5&type=wide" width="652" alt="sam's Dev Card"/></a>
