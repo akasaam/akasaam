@@ -1,8 +1,5 @@
 # Hello, World! 👋
-I'm a web developer who loves to get my hands dirty with HTML, CSS, and JavaScript. I've also dabbled in Kotlin for some app development. 🚀
-
-
-I'm always on the lookout for new tech to learn. When I'm not managing things or making tech decisions, you'll find me exploring new coding concepts. 💻
+I'm a web developer who loves to get my hands dirty with HTML, CSS, and JavaScript. I've also dabbled in Kotlin for some app development. 🚀 💻
 
 So, that's me! Feel free to explore my repos and let's code the future together!
 - 👀  programming ...
